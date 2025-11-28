@@ -3,47 +3,33 @@
 <package format="3">
 
   <!-- 1. 功能包核心元信息 -->
-  <name>ros2_project_final_pkg</name>  <!-- 功能包名称 -->
-  <version>0.0.0</version>  <!-- 版本号 -->
-  <description>校内赛ros2功能包，实现视觉识别与弹丸击打功能</description>  <!-- 功能包描述 -->
-  <maintainer email="itisastory@163.com">Craziet</maintainer>  <!-- 维护者信息 -->
-  <license>Apache-2.0</license>  <!-- 许可证 -->
+  <name>ros2_project_final_pkg</name>
+  <version>0.0.0</version>
+  <description>校内赛ros2功能包，实现视觉识别与弹丸击打功能</description>
+  <maintainer email="itisastory@163.com">Craziet</maintainer>
+  <license>Apache-2.0</license>
 
-  <!-- 2. 构建工具依赖 -->
-  <buildtool_depend>ament_cmake</buildtool_depend>  <!-- 指定构建工具为 ament_cmake，与 CMakeLists.txt 一致 -->
+  <!-- 2. 构建工具依赖（仅保留1次，与CMakeLists.txt对应） -->
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <!-- 3. 功能包核心依赖（覆盖所有节点的需求） -->
-  <!-- 依赖声明格式：对应 CMakeLists.txt 中的 find_package() -->
-  <depend>rclcpp</depend>          <!-- ROS 2 C++ 核心通信库 -->
-  <depend>std_msgs</depend>        <!-- 标准消息包（Header、String 等） -->
-  <depend>geometry_msgs</depend>   <!-- 几何消息包（Point、Vector3 等） -->
-  <depend>sensor_msgs</depend>     <!-- 传感器消息包（Image 等） -->
-  <depend>gazebo_msgs</depend>     <!-- Gazebo 仿真消息包 -->
-  <depend>opencv2</depend>         <!-- OpenCV 图像处理库（注意包名是 opencv2，而非 OpenCV） -->
-  <depend>cv_bridge</depend>       <!-- ROS 与 OpenCV 图像格式转换库 -->
-  <depend>referee_pkg</depend>     <!-- 自定义裁判消息包 -->
-  <depend>pose_msg</depend>        <!-- 自定义位姿消息包 -->
+  <!-- 3. 核心依赖：用 <depend> 覆盖编译+运行阶段，无需重复声明 <exec_depend> -->
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>geometry_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>gazebo_msgs</depend>
+  <depend>opencv2</depend>
+  <depend>cv_bridge</depend>
+  <depend>referee_pkg</depend>
+  <depend>pose_msg</depend>
   <depend>message_filters</depend>
 
-  <!-- 4. 显式声明构建/运行依赖 -->
-  <build_depend>ament_cmake</build_depend>  <!-- 构建阶段依赖 -->
-  <exec_depend>rclcpp</exec_depend>         <!-- 运行阶段依赖 -->
-  <exec_depend>std_msgs</exec_depend>
-  <exec_depend>geometry_msgs</exec_depend>
-  <exec_depend>sensor_msgs</exec_depend>
-  <exec_depend>gazebo_msgs</exec_depend>
-  <exec_depend>opencv2</exec_depend>
-  <exec_depend>cv_bridge</exec_depend>
-  <exec_depend>referee_pkg</exec_depend>
-  <exec_depend>pose_msg</exec_depend>
-  <exec_depend>message_filters</exec_depend>
+  <!-- 4. 测试依赖 -->
+  <test_depend>ament_lint_auto</test_depend>
+  <test_depend>ament_lint_common</test_depend>
 
-  <!-- 5. 测试依赖 -->
-  <test_depend>ament_lint_auto</test_depend>  <!-- 自动代码检查工具 -->
-  <test_depend>ament_lint_common</test_depend>  <!-- 通用代码检查规则 -->
-
-  <!-- 6. 导出配置） -->
+  <!-- 5. 导出配置 -->
   <export>
-    <build_type>ament_cmake</build_type>  <!-- 声明功能包的构建类型为 ament_cmake，与 CMakeLists.txt 一致 -->
+    <build_type>ament_cmake</build_type>
   </export>
 </package>
