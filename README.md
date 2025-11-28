@@ -24,7 +24,9 @@
 ### 2、弹丸击打节点
 
 ros2依赖：rclcpp，std_msgs，geometry_msgs，message_filters
+
 opencv依赖：opencv2
+
 自定义功能包依赖：referee_pkg
 
 ## 三、算法原理
