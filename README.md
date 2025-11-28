@@ -21,6 +21,12 @@
 
 ### 1、视觉识别节点
 
+ros2依赖：rclcpp，std_msgs，geometry_msgs，cv_bridge，pose_msg，sensor_msgs，gazebo_msgs，ament_index_cpp
+
+第三方库依赖：OpenCV、LibTorch
+
+自定义功能包依赖：referee_pkg
+
 ### 2、弹丸击打节点
 
 ros2依赖：rclcpp，std_msgs，geometry_msgs，message_filters
