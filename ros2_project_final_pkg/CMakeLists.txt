@@ -80,6 +80,7 @@ ament_target_dependencies(ShooterNode
   referee_pkg
   pose_msg
   message_filters
+  ament_index_cpp
 )
 
 #
