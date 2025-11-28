@@ -23,6 +23,7 @@
   <depend>referee_pkg</depend>
   <depend>pose_msg</depend>
   <depend>message_filters</depend>
+  <depend>ament_index_cpp</depend>
 
   <!-- 4. 测试依赖 -->
   <test_depend>ament_lint_auto</test_depend>
