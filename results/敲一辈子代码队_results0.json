@@ -1,0 +1,14 @@
+{
+    "RaceStage0": {
+        "average_numdetecterror": 0.087,
+        "average_orientationerror": 1.571,
+        "fps": 29,
+        "max_numdetecterror": 0.092,
+        "max_orientationerror": 1.571,
+        "run_id": "55a55c9f-b391-480b-905e-c2f3d39ef9bd",
+        "score": 0.0,
+        "target_type": "sphere",
+        "timestamp": "2025-11-28T22:05:41Z"
+    },
+    "team_name": "敲一辈子代码队"
+}

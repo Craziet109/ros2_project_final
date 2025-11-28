@@ -1,0 +1,6000 @@
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885711
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881856
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00413576 , 2.92487 , 0.453586]
+       - orientation : [0.707107 , 0.707107 , -1.0879e-09 , 7.91273e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881038
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866633
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882996
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:31Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000463767 , 2.92402 , 0.451414]
+       - orientation : [0.707107 , 0.707107 , -4.96957e-11 , 4.25697e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0893385
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.452202]
+       - orientation : [0.707107 , 0.707107 , 8.45604e-12 , -7.20526e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869082
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169576 , 2.92651 , 0.451429]
+       - orientation : [0.707107 , 0.707107 , 5.03822e-10 , -3.74249e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868959
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876854
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087183
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00353429 , 2.92632 , 0.451141]
+       - orientation : [0.707107 , 0.707107 , 4.36794e-10 , -3.14452e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867369
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872635
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869914
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322216 , 2.92632 , 0.449984]
+       - orientation : [0.707107 , 0.707107 , 9.4794e-12 , -8.17473e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868369
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087484
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869662
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867566
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088647
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871784
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866661
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086587
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863669
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00050535 , 2.92534 , 0.446585]
+       - orientation : [0.707107 , 0.707107 , -1.46417e-12 , 1.26462e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0880638
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.086991
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0860023
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867864
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870032
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00418333 , 2.92695 , 0.446201]
+       - orientation : [0.707107 , 0.707107 , -1.11984e-09 , 8.20235e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0861424
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854832
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854613
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0852777
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862472
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885453
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870796
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00336111 , 2.92568 , 0.45325]
+       - orientation : [0.707107 , 0.707107 , 9.40897e-10 , -6.91762e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087417
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0883359
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892521
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878493
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00281977 , 2.92556 , 0.451883]
+       - orientation : [0.707107 , 0.707107 , 8.12979e-10 , -6.00923e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875232
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867194
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872299
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872645
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0878475
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:32Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00290779 , 2.92693 , 0.450122]
+       - orientation : [0.707107 , 0.707107 , -3.85965e-10 , 2.81658e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864357
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868513
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875049
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869871
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00174319 , 2.92765 , 0.448926]
+       - orientation : [0.707107 , 0.707107 , 2.09191e-10 , -1.49949e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0857491
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879686
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867753
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867415
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0864187
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00050535 , 2.92534 , 0.446585]
+       - orientation : [0.707107 , 0.707107 , -1.46417e-12 , 1.26462e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0880638
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869806
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0860023
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867706
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869927
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00418333 , 2.92695 , 0.446201]
+       - orientation : [0.707107 , 0.707107 , -1.11984e-09 , 8.20235e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0861527
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854521
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854245
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00324205 , 2.92663 , 0.444806]
+       - orientation : [0.707107 , 0.707107 , -2.17356e-11 , 1.87197e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866299
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862261
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088535
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870744
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00336111 , 2.92568 , 0.45325]
+       - orientation : [0.707107 , 0.707107 , 9.40897e-10 , -6.91762e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087417
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0883411
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892418
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:33Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878493
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00281977 , 2.92556 , 0.451883]
+       - orientation : [0.707107 , 0.707107 , 8.12979e-10 , -6.00923e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875078
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00142536 , 2.9254 , 0.450906]
+       - orientation : [0.707107 , 0.707107 , -3.52285e-11 , 3.01896e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879656
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872195
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872593
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00190365 , 2.92671 , 0.450144]
+       - orientation : [0.707107 , 0.707107 , -4.83695e-10 , 3.50219e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867457
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00290779 , 2.92693 , 0.450122]
+       - orientation : [0.707107 , 0.707107 , -3.85965e-10 , 2.81658e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864305
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868565
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875153
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870028
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867619
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886832
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872149
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867076
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866687
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863463
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879892
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869288
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0859496
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867339
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864892
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863258
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867123
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853458
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00168094 , 2.92682 , 0.444257]
+       - orientation : [0.707107 , 0.707107 , 2.38001e-11 , -2.04468e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866662
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861788
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.453684]
+       - orientation : [0.707107 , 0.707107 , 4.92791e-10 , -3.53024e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878977
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00413576 , 2.92487 , 0.453586]
+       - orientation : [0.707107 , 0.707107 , -1.0879e-09 , 7.91273e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0880987
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866581
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882996
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:34Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000463767 , 2.92402 , 0.451414]
+       - orientation : [0.707107 , 0.707107 , -4.96957e-11 , 4.25697e-11]
+  RingCirclePositionError : 0
+  position_error : 0.089354
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.452202]
+       - orientation : [0.707107 , 0.707107 , 8.45604e-12 , -7.20526e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869186
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169576 , 2.92651 , 0.451429]
+       - orientation : [0.707107 , 0.707107 , 5.03822e-10 , -3.74249e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868854
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876802
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871986
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00353429 , 2.92632 , 0.451141]
+       - orientation : [0.707107 , 0.707107 , 4.36794e-10 , -3.14452e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086742
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00190365 , 2.92671 , 0.450144]
+       - orientation : [0.707107 , 0.707107 , -4.83695e-10 , 3.50219e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867195
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00324205 , 2.92663 , 0.450089]
+       - orientation : [0.707107 , 0.707107 , -2.1656e-11 , 1.85629e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866869
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322216 , 2.92632 , 0.449984]
+       - orientation : [0.707107 , 0.707107 , 9.4794e-12 , -8.17473e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868421
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874893
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.086961
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00174319 , 2.92765 , 0.448926]
+       - orientation : [0.707107 , 0.707107 , 2.09191e-10 , -1.49949e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0857124
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879275
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867388
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866999
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863773
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0880154
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869495
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0859706
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867496
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00190686 , 2.92688 , 0.4457]
+       - orientation : [0.707107 , 0.707107 , 5.15917e-10 , -3.78622e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865241
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863567
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867438
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.085372
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00148889 , 2.92682 , 0.444203]
+       - orientation : [0.707107 , 0.707107 , -2.09784e-10 , 1.55136e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866577
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917202
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881907
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870469
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086627
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882634
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000463767 , 2.92402 , 0.451414]
+       - orientation : [0.707107 , 0.707107 , -4.96957e-11 , 4.25697e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0893128
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874826
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:35Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00142289 , 2.92663 , 0.451322]
+       - orientation : [0.707107 , 0.707107 , -3.83427e-10 , 2.80381e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868023
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876124
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087157
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00429947 , 2.92521 , 0.450936]
+       - orientation : [0.707107 , 0.707107 , -2.77365e-11 , 2.38313e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0877937
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872426
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869498
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00270025 , 2.92663 , 0.449774]
+       - orientation : [0.707107 , 0.707107 , 3.87619e-10 , -2.86652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866215
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874268
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867828
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886521
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871888
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867388
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866947
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863721
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0880206
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0870066
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00170574 , 2.92731 , 0.44643]
+       - orientation : [0.707107 , 0.707107 , 3.63592e-11 , -3.12066e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861495
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0868021
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.086998
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00418333 , 2.92695 , 0.446201]
+       - orientation : [0.707107 , 0.707107 , -1.11984e-09 , 8.20235e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0861269
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854521
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854666
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0852934
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862524
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00120183 , 2.92732 , 0.44388]
+       - orientation : [0.707107 , 0.707107 , 1.57139e-11 , -1.34973e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917532
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871108
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870263
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865803
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:36Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0893035
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879066
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874515
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867769
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00110748 , 2.92559 , 0.450831]
+       - orientation : [0.707107 , 0.707107 , -1.57632e-10 , 1.1636e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0877252
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087321
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879088
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160443 , 2.92635 , 0.449902]
+       - orientation : [0.707107 , 0.707107 , 1.79335e-10 , -1.26578e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870634
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869135
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169645 , 2.92575 , 0.448956]
+       - orientation : [0.707107 , 0.707107 , 4.69893e-14 , -1.65935e-14]
+  RingCirclePositionError : 0
+  position_error : 0.0877291
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0873748
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867305
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886057
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00203789 , 2.92634 , 0.447979]
+       - orientation : [0.707107 , 0.707107 , 2.36752e-11 , -2.02906e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870458
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867727
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865456
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00050535 , 2.92534 , 0.446585]
+       - orientation : [0.707107 , 0.707107 , -1.46417e-12 , 1.26462e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0881054
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0870325
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00170574 , 2.92731 , 0.44643]
+       - orientation : [0.707107 , 0.707107 , 3.63592e-11 , -3.12066e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861811
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130424 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , -2.90331e-11 , 2.49401e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867928
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130328 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , 1.70378e-10 , -1.243e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866677
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864631
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863155
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867543
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853825
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00148889 , 2.92682 , 0.444203]
+       - orientation : [0.707107 , 0.707107 , -2.09784e-10 , 1.55136e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086663
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861736
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.453684]
+       - orientation : [0.707107 , 0.707107 , 4.92791e-10 , -3.53024e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878772
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870881
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866529
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:37Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0883359
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892418
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878441
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00281977 , 2.92556 , 0.451883]
+       - orientation : [0.707107 , 0.707107 , 8.12979e-10 , -6.00923e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875283
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867142
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872299
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872747
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0878577
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00290779 , 2.92693 , 0.450122]
+       - orientation : [0.707107 , 0.707107 , -3.85965e-10 , 2.81658e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086441
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868876
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169645 , 2.92575 , 0.448956]
+       - orientation : [0.707107 , 0.707107 , 4.69893e-14 , -1.65935e-14]
+  RingCirclePositionError : 0
+  position_error : 0.0877291
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087406
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867462
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886211
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871628
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00377174 , 2.92683 , 0.448313]
+       - orientation : [0.707107 , 0.707107 , 1.03897e-09 , -7.63834e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0863576
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865715
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.446807]
+       - orientation : [0.707107 , 0.707107 , 4.21863e-11 , -3.62191e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882518
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879371
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868719
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130424 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , -2.90331e-11 , 2.49401e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0868138
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.087045
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864265
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854935
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867123
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853406
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00173892 , 2.92745 , 0.444257]
+       - orientation : [0.707107 , 0.707107 , 4.69556e-10 , -3.44773e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0860809
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00120183 , 2.92732 , 0.44388]
+       - orientation : [0.707107 , 0.707107 , 1.57139e-11 , -1.34973e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917831
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881651
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870314
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086601
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0893086
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.001207 , 2.9255 , 0.451606]
+       - orientation : [0.707107 , 0.707107 , -3.23205e-11 , 2.76704e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879331
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874515
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867821
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:38Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876541
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087183
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872799
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0878526
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00290779 , 2.92693 , 0.450122]
+       - orientation : [0.707107 , 0.707107 , -3.85965e-10 , 2.81658e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864357
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868513
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00150712 , 2.92584 , 0.448918]
+       - orientation : [0.707107 , 0.707107 , 4.28005e-10 , -3.16103e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0876156
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869924
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866887
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879635
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867753
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867415
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0864187
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00050535 , 2.92534 , 0.446585]
+       - orientation : [0.707107 , 0.707107 , -1.46417e-12 , 1.26462e-12]
+  RingCirclePositionError : 0
+  position_error : 0.088069
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869962
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0860234
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867969
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870503
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864213
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0028596 , 2.92757 , 0.445536]
+       - orientation : [0.707107 , 0.707107 , -3.55616e-10 , 2.57087e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0857808
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854561
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0852934
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862472
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885659
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870952
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00336111 , 2.92568 , 0.45325]
+       - orientation : [0.707107 , 0.707107 , 9.40897e-10 , -6.91762e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874376
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00244366 , 2.92478 , 0.452289]
+       - orientation : [0.707107 , 0.707107 , 3.1967e-10 , -2.32401e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885017
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892624
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878649
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0873996
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:39Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867456
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000820458 , 2.92559 , 0.450702]
+       - orientation : [0.707107 , 0.707107 , -2.13388e-11 , 1.82953e-11]
+  RingCirclePositionError : 0
+  position_error : 0.08777
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871258
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00429947 , 2.92521 , 0.450936]
+       - orientation : [0.707107 , 0.707107 , -2.77365e-11 , 2.38313e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0877682
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872374
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869343
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00270025 , 2.92663 , 0.449774]
+       - orientation : [0.707107 , 0.707107 , 3.87619e-10 , -2.86652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866059
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874268
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869558
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00174319 , 2.92765 , 0.448926]
+       - orientation : [0.707107 , 0.707107 , 2.09191e-10 , -1.49949e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0857071
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879275
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867336
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866947
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863825
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0880258
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869495
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0859759
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867496
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00190686 , 2.92688 , 0.4457]
+       - orientation : [0.707107 , 0.707107 , 5.15917e-10 , -3.78622e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865084
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863464
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867333
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853511
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00148889 , 2.92682 , 0.444203]
+       - orientation : [0.707107 , 0.707107 , -2.09784e-10 , 1.55136e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866472
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861526
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.453684]
+       - orientation : [0.707107 , 0.707107 , 4.92791e-10 , -3.53024e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878669
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870588
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870006
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865699
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:40Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892778
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878857
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874204
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867456
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000820458 , 2.92559 , 0.450702]
+       - orientation : [0.707107 , 0.707107 , -2.13388e-11 , 1.82953e-11]
+  RingCirclePositionError : 0
+  position_error : 0.08777
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872901
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0878883
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160443 , 2.92635 , 0.449902]
+       - orientation : [0.707107 , 0.707107 , 1.79335e-10 , -1.26578e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870477
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086898
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00150712 , 2.92584 , 0.448918]
+       - orientation : [0.707107 , 0.707107 , 4.28005e-10 , -3.16103e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0876678
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874476
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869506
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00174319 , 2.92765 , 0.448926]
+       - orientation : [0.707107 , 0.707107 , 2.09191e-10 , -1.49949e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0856914
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879121
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867128
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866791
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863463
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879892
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917202
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088201
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870829
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866425
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0883256
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892675
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878909
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874255
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:41Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867665
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00110748 , 2.92559 , 0.450831]
+       - orientation : [0.707107 , 0.707107 , -1.57632e-10 , 1.1636e-10]
+  RingCirclePositionError : 0
+  position_error : 0.08772
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087321
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0878883
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160443 , 2.92635 , 0.449902]
+       - orientation : [0.707107 , 0.707107 , 1.79335e-10 , -1.26578e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870529
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868928
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00150712 , 2.92584 , 0.448918]
+       - orientation : [0.707107 , 0.707107 , 4.28005e-10 , -3.16103e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0876573
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.08738
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867357
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886108
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871471
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00246007 , 2.92782 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 3.34732e-10 , -2.45575e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0856102
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086556
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00050535 , 2.92534 , 0.446585]
+       - orientation : [0.707107 , 0.707107 , -1.46417e-12 , 1.26462e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0881054
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0870325
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00170574 , 2.92731 , 0.44643]
+       - orientation : [0.707107 , 0.707107 , 3.63592e-11 , -3.12066e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861811
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130424 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , -2.90331e-11 , 2.49401e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867928
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870293
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00418333 , 2.92695 , 0.446201]
+       - orientation : [0.707107 , 0.707107 , -1.11984e-09 , 8.20235e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0861734
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.085478
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854508
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00324205 , 2.92663 , 0.444806]
+       - orientation : [0.707107 , 0.707107 , -2.17356e-11 , 1.87197e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866247
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862367
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885453
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881549
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.087016
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865855
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892829
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:42Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879066
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874359
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867612
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0875863
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0873312
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879036
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160443 , 2.92635 , 0.449902]
+       - orientation : [0.707107 , 0.707107 , 1.79335e-10 , -1.26578e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870738
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869083
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169645 , 2.92575 , 0.448956]
+       - orientation : [0.707107 , 0.707107 , 4.69893e-14 , -1.65935e-14]
+  RingCirclePositionError : 0
+  position_error : 0.0877187
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874008
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00175318 , 2.92603 , 0.448961]
+       - orientation : [0.707107 , 0.707107 , 4.61358e-10 , -3.36366e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871438
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886108
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871419
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00377174 , 2.92683 , 0.448313]
+       - orientation : [0.707107 , 0.707107 , 1.03897e-09 , -7.63834e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086342
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865663
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.446807]
+       - orientation : [0.707107 , 0.707107 , 4.21863e-11 , -3.62191e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882415
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879371
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00170574 , 2.92731 , 0.44643]
+       - orientation : [0.707107 , 0.707107 , 3.63592e-11 , -3.12066e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0861864
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130424 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , -2.90331e-11 , 2.49401e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0868033
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870346
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864109
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854883
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854613
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.085283
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862419
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00120183 , 2.92732 , 0.44388]
+       - orientation : [0.707107 , 0.707107 , 1.57139e-11 , -1.34973e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917712
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088201
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870537
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869954
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00244366 , 2.92478 , 0.452289]
+       - orientation : [0.707107 , 0.707107 , 3.1967e-10 , -2.32401e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885068
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892572
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878701
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:43Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0873996
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867403
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000820458 , 2.92559 , 0.450702]
+       - orientation : [0.707107 , 0.707107 , -2.13388e-11 , 1.82953e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0877596
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00350603 , 2.92574 , 0.451147]
+       - orientation : [0.707107 , 0.707107 , -9.52603e-10 , 6.97567e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872953
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00388262 , 2.92509 , 0.450809]
+       - orientation : [0.707107 , 0.707107 , 1.21263e-11 , -1.04464e-11]
+  RingCirclePositionError : 0
+  position_error : 0.087873
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160443 , 2.92635 , 0.449902]
+       - orientation : [0.707107 , 0.707107 , 1.79335e-10 , -1.26578e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870373
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868824
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00150712 , 2.92584 , 0.448918]
+       - orientation : [0.707107 , 0.707107 , 4.28005e-10 , -3.16103e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0876417
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870028
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0866939
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087984
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871784
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866816
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865922
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.446807]
+       - orientation : [0.707107 , 0.707107 , 4.21863e-11 , -3.62191e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882777
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879632
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868823
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.446032]
+       - orientation : [0.707107 , 0.707107 , 3.74181e-10 , -2.73927e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868295
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130328 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , 1.70378e-10 , -1.243e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866573
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864788
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863103
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867176
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853458
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00193822 , 2.927 , 0.444181]
+       - orientation : [0.707107 , 0.707107 , 5.70046e-10 , -4.24364e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864981
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0916964
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881907
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870469
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866114
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0893241
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.001207 , 2.9255 , 0.451606]
+       - orientation : [0.707107 , 0.707107 , -3.23205e-11 , 2.76704e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879331
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874774
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00169576 , 2.92651 , 0.451429]
+       - orientation : [0.707107 , 0.707107 , 5.03822e-10 , -3.74249e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868907
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876645
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:44Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087183
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00353429 , 2.92632 , 0.451141]
+       - orientation : [0.707107 , 0.707107 , 4.36794e-10 , -3.14452e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867472
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872843
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869914
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322216 , 2.92632 , 0.449984]
+       - orientation : [0.707107 , 0.707107 , 9.4794e-12 , -8.17473e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868266
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874997
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869662
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00174319 , 2.92765 , 0.448926]
+       - orientation : [0.707107 , 0.707107 , 2.09191e-10 , -1.49949e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0857124
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00406378 , 2.92524 , 0.448404]
+       - orientation : [0.707107 , 0.707107 , 4.95292e-10 , -3.56149e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879377
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867493
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867103
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863876
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0880206
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869599
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0859812
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000815134 , 2.92672 , 0.445804]
+       - orientation : [0.707107 , 0.707107 , -1.88178e-10 , 1.34085e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086807
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00133816 , 2.92642 , 0.445583]
+       - orientation : [0.707107 , 0.707107 , -3.10192e-11 , 2.66122e-11]
+  RingCirclePositionError : 0
+  position_error : 0.086998
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00418333 , 2.92695 , 0.446201]
+       - orientation : [0.707107 , 0.707107 , -1.11984e-09 , 8.20235e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0861424
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00439347 , 2.9276 , 0.446172]
+       - orientation : [0.707107 , 0.707107 , 1.16888e-09 , -8.55253e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854313
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0854035
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.444712]
+       - orientation : [0.707107 , 0.707107 , -8.98951e-10 , 6.62228e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869031
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0862472
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.453264]
+       - orientation : [0.707107 , 0.707107 , 2.68349e-10 , -1.97615e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0885608
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.453314]
+       - orientation : [0.707107 , 0.707107 , 6.00076e-10 , -4.36211e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0870848
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00336111 , 2.92568 , 0.45325]
+       - orientation : [0.707107 , 0.707107 , 9.40897e-10 , -6.91762e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874324
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00244366 , 2.92478 , 0.452289]
+       - orientation : [0.707107 , 0.707107 , 3.1967e-10 , -2.32401e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0884965
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0892624
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:45Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.451553]
+       - orientation : [0.707107 , 0.707107 , 3.10081e-10 , -2.30473e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0878649
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0873996
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00140322 , 2.92663 , 0.451314]
+       - orientation : [0.707107 , 0.707107 , 3.72321e-10 , -2.71522e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867299
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000820458 , 2.92559 , 0.450702]
+       - orientation : [0.707107 , 0.707107 , -2.13388e-11 , 1.82953e-11]
+  RingCirclePositionError : 0
+  position_error : 0.08777
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871362
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00429947 , 2.92521 , 0.450936]
+       - orientation : [0.707107 , 0.707107 , -2.77365e-11 , 2.38313e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0877784
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872322
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869239
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00270025 , 2.92663 , 0.449774]
+       - orientation : [0.707107 , 0.707107 , 3.87619e-10 , -2.86652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866007
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874164
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867462
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886366
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871628
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00377174 , 2.92683 , 0.448313]
+       - orientation : [0.707107 , 0.707107 , 1.03897e-09 , -7.63834e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0863628
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337711 , 2.9266 , 0.447947]
+       - orientation : [0.707107 , 0.707107 , -9.10263e-10 , 6.66835e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865611
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.446807]
+       - orientation : [0.707107 , 0.707107 , 4.21863e-11 , -3.62191e-11]
+  RingCirclePositionError : 0
+  position_error : 0.088257
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879475
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868771
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130424 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , -2.90331e-11 , 2.49401e-11]
+  RingCirclePositionError : 0
+  position_error : 0.086819
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000728441 , 2.92674 , 0.44577]
+       - orientation : [0.707107 , 0.707107 , -4.66808e-11 , 4.00725e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867234
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00190686 , 2.92688 , 0.4457]
+       - orientation : [0.707107 , 0.707107 , 5.15917e-10 , -3.78622e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864927
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863258
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867281
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853458
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00173892 , 2.92745 , 0.444257]
+       - orientation : [0.707107 , 0.707107 , 4.69556e-10 , -3.44773e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0860757
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00185148 , 2.92726 , 0.444139]
+       - orientation : [0.707107 , 0.707107 , -1.27942e-11 , 1.09988e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917322
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088201
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870675
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866373
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:46Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00151317 , 2.92506 , 0.452087]
+       - orientation : [0.707107 , 0.707107 , 4.19748e-11 , -3.59389e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0882686
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000463767 , 2.92402 , 0.451414]
+       - orientation : [0.707107 , 0.707107 , -4.96957e-11 , 4.25697e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0893128
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087467
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00142289 , 2.92663 , 0.451322]
+       - orientation : [0.707107 , 0.707107 , -3.83427e-10 , 2.80381e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868232
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876541
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871674
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00353429 , 2.92632 , 0.451141]
+       - orientation : [0.707107 , 0.707107 , 4.36794e-10 , -3.14452e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867163
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872635
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0869758
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322216 , 2.92632 , 0.449984]
+       - orientation : [0.707107 , 0.707107 , 9.4794e-12 , -8.17473e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868059
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191071 , 2.92592 , 0.448993]
+       - orientation : [0.707107 , 0.707107 , -1.96069e-10 , 1.3588e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0874632
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0869349
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0886677
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872097
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00279058 , 2.92656 , 0.448125]
+       - orientation : [0.707107 , 0.707107 , 7.80582e-10 , -5.75347e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867128
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.44787]
+       - orientation : [0.707107 , 0.707107 , 8.45649e-10 , -6.17997e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866687
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00337918 , 2.92671 , 0.447944]
+       - orientation : [0.707107 , 0.707107 , 1.35305e-11 , -1.16183e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863566
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00103881 , 2.92555 , 0.446272]
+       - orientation : [0.707107 , 0.707107 , 3.11643e-10 , -2.32466e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0879892
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322794 , 2.92626 , 0.44692]
+       - orientation : [0.707107 , 0.707107 , 8.44191e-12 , -7.278e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0869133
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013872 , 2.92752 , 0.446327]
+       - orientation : [0.707107 , 0.707107 , 3.79201e-10 , -2.78693e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0859391
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00130328 , 2.92665 , 0.445993]
+       - orientation : [0.707107 , 0.707107 , 1.70378e-10 , -1.243e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0866938
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00188349 , 2.92688 , 0.445694]
+       - orientation : [0.707107 , 0.707107 , -5.66201e-10 , 4.2258e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864788
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00420026 , 2.9267 , 0.446122]
+       - orientation : [0.707107 , 0.707107 , -6.10522e-11 , 5.23905e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0863206
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00160579 , 2.92678 , 0.444765]
+       - orientation : [0.707107 , 0.707107 , 4.12929e-10 , -3.00529e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867071
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00316159 , 2.92796 , 0.445225]
+       - orientation : [0.707107 , 0.707107 , 3.96552e-10 , -2.87297e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0853301
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00193822 , 2.927 , 0.444181]
+       - orientation : [0.707107 , 0.707107 , 5.70046e-10 , -4.24364e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0864981
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00120183 , 2.92732 , 0.44388]
+       - orientation : [0.707107 , 0.707107 , 1.57139e-11 , -1.34973e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0917831
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00407721 , 2.92491 , 0.453577]
+       - orientation : [0.707107 , 0.707107 , 5.15243e-10 , -3.72049e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0881651
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00417999 , 2.92605 , 0.453568]
+       - orientation : [0.707107 , 0.707107 , -4.57999e-11 , 3.91265e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870314
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00318383 , 2.92657 , 0.453152]
+       - orientation : [0.707107 , 0.707107 , 8.41479e-10 , -6.12596e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0865958
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0014918 , 2.924 , 0.451729]
+       - orientation : [0.707107 , 0.707107 , -2.503e-10 , 1.89141e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0893086
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.001207 , 2.9255 , 0.451606]
+       - orientation : [0.707107 , 0.707107 , -3.23205e-11 , 2.76704e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0879383
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.0013972 , 2.92583 , 0.451656]
+       - orientation : [0.707107 , 0.707107 , 4.223e-10 , -3.14509e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0875034
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:47Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00142289 , 2.92663 , 0.451322]
+       - orientation : [0.707107 , 0.707107 , -3.83427e-10 , 2.80381e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0868284
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000763624 , 2.9258 , 0.450749]
+       - orientation : [0.707107 , 0.707107 , 3.95761e-11 , -3.39142e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0876489
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00134497 , 2.92615 , 0.45078]
+       - orientation : [0.707107 , 0.707107 , 3.33923e-10 , -2.40652e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087183
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00353429 , 2.92632 , 0.451141]
+       - orientation : [0.707107 , 0.707107 , 4.36794e-10 , -3.14452e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0867317
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00191236 , 2.92616 , 0.449961]
+       - orientation : [0.707107 , 0.707107 , -2.89748e-10 , 2.16066e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0872739
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00326006 , 2.92633 , 0.449995]
+       - orientation : [0.707107 , 0.707107 , -8.94386e-10 , 6.56523e-10]
+  RingCirclePositionError : 0
+  position_error : 0.086981
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00322216 , 2.92632 , 0.449984]
+       - orientation : [0.707107 , 0.707107 , 9.4794e-12 , -8.17473e-12]
+  RingCirclePositionError : 0
+  position_error : 0.0868266
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00150712 , 2.92584 , 0.448918]
+       - orientation : [0.707107 , 0.707107 , 4.28005e-10 , -3.16103e-10]
+  RingCirclePositionError : 0
+  position_error : 0.087626
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00116325 , 2.92642 , 0.448841]
+       - orientation : [0.707107 , 0.707107 , -3.43624e-11 , 2.94548e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0870028
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.000677912 , 2.92663 , 0.448743]
+       - orientation : [0.707107 , 0.707107 , 2.19175e-11 , -1.87804e-11]
+  RingCirclePositionError : 0
+  position_error : 0.0867357
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00189513 , 2.9247 , 0.447985]
+       - orientation : [0.707107 , 0.707107 , 2.69704e-10 , -1.99367e-10]
+  RingCirclePositionError : 0
+  position_error : 0.088616
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
+ ErrorResults 
+  stamp : 2025-11-28T22:05:48Z
+  target_type : sphere
+  model_name : sphere
+  pose : 
+       - position : [-0.00228829 , 2.92621 , 0.448032]
+       - orientation : [0.707107 , 0.707107 , 6.03045e-10 , -4.40059e-10]
+  RingCirclePositionError : 0
+  position_error : 0.0871523
+  orientation_error : 1.5708
+  found_in_gazebo : 1
+
