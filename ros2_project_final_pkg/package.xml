@@ -18,7 +18,7 @@
   <depend>geometry_msgs</depend>
   <depend>sensor_msgs</depend>
   <depend>gazebo_msgs</depend>
-  <depend>opencv2</depend>
+  <depend>openCV</depend>
   <depend>cv_bridge</depend>
   <depend>referee_pkg</depend>
   <depend>pose_msg</depend>
