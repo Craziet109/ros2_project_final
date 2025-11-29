@@ -52,6 +52,7 @@ public:
           is_tracking(false)  // 初始化追踪状态为false
     {};
     
+    void paixu();
     
     struct ObjectInfo {
         string shape;
@@ -81,6 +82,7 @@ private:
     const float Min_ratio=0.8;
     const float Max_ratio=1.1;
 
+    // 新增追踪相关成员变量
     bool is_tracking;
     Rect2d tracking_bbox;
     Mat tracking_template;
@@ -90,19 +92,31 @@ private:
 
 
 
+
 class numberRecognition {
 private:
     torch::jit::script::Module model;
 public:
     numberRecognition(const std::string& model_path) {
+        try {
+            //加载模型
             model = torch::jit::load(model_path);
             model.eval();
+        } catch (const c10::Error& e) {
+            cerr<<"错误: 加载模型失败\n" <<e.what()<<endl;
+            throw;
+        }
     }
+    
     std::pair<int, float> predict(const cv::Mat& image) {
+        try {
             // 预处理图像
             torch::Tensor tensor = preprocess_image(image);
             
+            // 推理
             auto output = model.forward({tensor}).toTensor();
+            
+            // 后处理
             auto probs = torch::softmax(output, 1);
             auto predicted = torch::argmax(output, 1);
             
@@ -110,16 +124,27 @@ public:
             int digit = predicted[0].item<int>() + 1;
             
             return {digit, confidence};
+            
+        } catch (const c10::Error& e) {
+            std::cerr << "推理错误: " << e.what() << std::endl;
+            return {-1, 0.0f};
+        }
     }
+
 private:
     torch::Tensor preprocess_image(const cv::Mat& image) {
-        cv::Mat processed;
-        // 转换为灰度图
-        cv::cvtColor(image,processed, cv::COLOR_BGR2GRAY);
+        cv::Mat processed =image.clone();
+
         // 调整大小
-        cv::resize(processed,processed, cv::Size(64, 64));
+        cv::resize(processed, processed, cv::Size(64, 64));
+        
+        // 转换为float并归一化
         processed.convertTo(processed, CV_32F, 1.0 / 255.0);
+        
+        // 标准化 (mean=0.5, std=0.5)
         processed = (processed - 0.5) / 0.5;
+        
+        // 转换为tensor [1, 1, 64, 64]
         torch::Tensor tensor = torch::from_blob(
             processed.data, 
             {1, 1, 64, 64}, 
@@ -127,5 +152,7 @@ private:
         return tensor;
     }
 };
+
+
 
 #endif

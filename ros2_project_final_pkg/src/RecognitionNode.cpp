@@ -78,7 +78,7 @@ void PictureNode::callback_camera(sensor_msgs::msg::Image::SharedPtr msg) {
     
     cv::Mat result_image = image.clone();
     cv::imshow("Detection Result", result_image);
-    start.Integration(result_image);
+    start.findArmourIntegration(result_image);
     cv::waitKey(1);
 
     referee_pkg::msg::MultiObject msg_object;
@@ -88,7 +88,7 @@ void PictureNode::callback_camera(sensor_msgs::msg::Image::SharedPtr msg) {
 
     for (size_t k = 0; k < msg_object.num_objects; k++) {
       referee_pkg::msg::Object obj;
-      obj.target_type=start.allObjects[k].shape+"_"+start.allObjects[k].color;
+      obj.target_type=start.allObjects[k].shape;
       for (size_t index=0 ;index<start.allObjects[k].points.size();index++) {
           geometry_msgs::msg::Point corner;
           corner.x = start.allObjects[k].points[index].x;

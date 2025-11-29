@@ -23,18 +23,27 @@ void Recognition::Integration(Mat &original_img){
     ShowAllObjects();
 }
 
+
+
+
+
+
+
+
 void Recognition::findArmourIntegration(Mat &original_img){
     allObjects.clear();
 
     //正在追踪的画先更新
-    if (is_tracking) {
+    if (is_tracking and false) {
         bool tracking_success = updateTracker(original_img);
         if (tracking_success) {
+            // 追踪成功，绘制追踪结果
             TrackVisualization(original_img);
             Visualization(original_img);
             //return;  
             } 
             else {
+            // 追踪失败
             is_tracking = false;
             tracking_fail_count++;
             cout << "Tracking failed, count:" << tracking_fail_count << endl;
@@ -52,10 +61,11 @@ void Recognition::findArmourIntegration(Mat &original_img){
     
     // 如果检测到装甲板且不在追踪状态，初始化追踪器
     if (!allObjects.empty() && !is_tracking) {
-        // 这里只实现了一个的跟踪，来不及写其他了TT
+        // 选择第一个检测到的装甲板进行追踪
         const ObjectInfo& obj = allObjects[0];
         if (obj.points.size() == 4) {
             Rect2d bbox=obj.AmourRect;
+            // 确保bbox在图像范围内
             bbox.x = max(0.0,bbox.x);
             bbox.y = max(0.0,bbox.y);
             bbox.width = min(bbox.width, original_img.cols - bbox.x);
@@ -70,10 +80,24 @@ void Recognition::findArmourIntegration(Mat &original_img){
         }
     }
     ShowAllObjects();
+    paixu();
     Visualization(original_img);
 }
 
+void Recognition::paixu(){
+    for (size_t i;i<allObjects.size()-1;i++){
+        for (size_t j=i;j<allObjects.size()-1;j++){
+            if (allObjects[j].shape[9]>allObjects[j+1].shape[9]){
+                swap(allObjects[j],allObjects[j+1]);
+            }  }  }}
 
+
+
+
+
+
+
+//初始化追踪器
 void Recognition::initTracker(Mat &frame, Rect2d bbox) {
     // 确保bbox在图像范围内
     bbox.x = max(0.0, bbox.x);
@@ -343,7 +367,7 @@ void Recognition::transformLocation(vector<Point2f> Points,Rect boundRect,string
         //转换后将所有的信息进行存储
             ObjectInfo obj;
             //注意此处字符串的拼接
-            obj.shape = string("Armor")+"_"+to_string(number);    
+            obj.shape = string("Armor")+"_"+"red"+"_"+to_string(number);    
             obj.color = color;    
             obj.points = transformPoints;  
             obj.AmourRect=boundRect;     
@@ -427,12 +451,17 @@ void Recognition::ShowAllObjects(){
 
 
 int Recognition::number_recognition(Mat &afterWarp){
-    string package_share_dir = ament_index_cpp::get_package_share_directory("project1");
+    try{
+    string package_share_dir = ament_index_cpp::get_package_share_directory("project");
     string model_path = package_share_dir + "/models/digit_model_improved.pth";
     numberRecognition classifier(model_path);
         // 预测
-        auto result=classifier.predict(afterWarp);
-        cout << "预测数字: "<< result.first<<std::endl;
-        cout << "置信度: "<<result.second<<std::endl;
+        auto result = classifier.predict(afterWarp);
+        cout << "预测数字: " << result.first << std::endl;
+        cout << "置信度: " << result.second << std::endl;
         return result.first;
+    } catch (const std::exception& e) {
+        cerr << "程序错误: " << e.what() << std::endl;
+        return -1;
+    }
 }
