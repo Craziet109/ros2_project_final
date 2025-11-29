@@ -42,10 +42,12 @@ class ShooterNode : public relcpp::Node
         const double armor_h = 0.705;
         const double armor_w = 0.230;
 
+        const double speed = 25.00;
+
         // 相机参数
         cv::Mat camera_matrix_K = (cv::Mat_<double>(3, 3) <<
-            554.383, 0.0,    320.0,
-            0.0,    554.383, 320.0,
+            1108.383, 0.0,    640.0,
+            0.0,    1108.383, 640.0,
             0.0,    0.0,    1.0
         );
         cv::Mat extrinsic_matrix_l = (cv::Mat_<double>(3, 4) <<
@@ -255,7 +257,7 @@ class ShooterNode : public relcpp::Node
             }
 
             // 计算欧拉角
-            geometry_msgs::msg::Vector3 euler = calculate_euler_angle(spatial_point_world, g, 1.5)
+            geometry_msgs::msg::Vector3 euler = calculate_euler_angle(spatial_point_world, g, speed)
 
             // 返回响应
             response->yaw = euler.z;
