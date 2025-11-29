@@ -78,6 +78,7 @@ class ShooterNode : public relcpp::Node
         // 接收目标消息，缓存“时间戳+世界系坐标”
         void multi_obj_callback(const referee_pkg::msg::MultiObject::SharedPtr msg)
         {
+            RCLCPP_INFO(this->get_loger(),"成功进入回调函数");
             //写入的锁保护
             std::lock_guard<std::mutex> lock(cache_mutex_);
             
@@ -121,6 +122,7 @@ class ShooterNode : public relcpp::Node
             const double armor_h,
             const double armor_w)
         {
+            RCLCPP_INFO(this->get_loger(),"开始计算装甲板相机参考系坐标");
             std::vector<cv::Point2f> image_points;
             for (const auto& corner : corners) {
                 image_points.emplace_back(static_cast<float>(corner.x), static_cast<float>(corner.y));
@@ -148,6 +150,7 @@ class ShooterNode : public relcpp::Node
             const geometry_msgs::msg::Point& camera_point,
             const cv::Mat& extrinsic_w2c)
         {
+            RCLCPP_INFO(this->get_loger(),"开始进行坐标系转换");
             cv::Mat R = extrinsic_w2c.colRange(0, 3);
             cv::Mat t = extrinsic_w2c.col(3);
 
@@ -167,6 +170,7 @@ class ShooterNode : public relcpp::Node
             double g, 
             double projectile_speed)
         {
+            RCLCPP_INFO(this->get_loger(),"开始计算欧拉角");
             geometry_msgs::msg::Vector3 euler;
             euler.x = 0.0; // 滚转角默认设为0
 
