@@ -14,6 +14,24 @@ if(CMAKE_COMPILER_IS_GNUCXX OR CMAKE_CXX_COMPILER_ID MATCHES "Clang")
     )
 endif()
 
+# 设置LibTorch路径
+set(LIBTORCH_PATH "/opt/libtorch")
+message(STATUS "LibTorch路径: ${LIBTORCH_PATH}")
+
+# 检查LibTorch是否存在
+if(NOT EXISTS ${LIBTORCH_PATH})
+    message(WARNING "LibTorch未找到在: ${LIBTORCH_PATH}")
+else()
+    # 设置查找路径
+    list(APPEND CMAKE_PREFIX_PATH "${LIBTORCH_PATH}")
+    
+    # 查找LibTorch包
+    find_package(Torch REQUIRED)
+    message(STATUS "找到Torch: ${TORCH_FOUND}")
+endif()
+
+
+
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
