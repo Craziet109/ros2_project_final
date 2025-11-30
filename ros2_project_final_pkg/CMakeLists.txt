@@ -16,22 +16,8 @@ endif()
 
 # 设置LibTorch路径
 set(LIBTORCH_PATH "/opt/libtorch")
-message(STATUS "LibTorch路径: ${LIBTORCH_PATH}")
 
-# 检查LibTorch是否存在
-if(NOT EXISTS ${LIBTORCH_PATH})
-    message(WARNING "LibTorch未找到在: ${LIBTORCH_PATH}")
-else()
-    # 设置查找路径
-    list(APPEND CMAKE_PREFIX_PATH "${LIBTORCH_PATH}")
-    
-    # 查找LibTorch包
-    find_package(Torch REQUIRED)
-    message(STATUS "找到Torch: ${TORCH_FOUND}")
-endif()
-
-
-
+find_package(Torch REQUIRED)
 find_package(ament_cmake REQUIRED)
 find_package(rclcpp REQUIRED)
 find_package(std_msgs REQUIRED)
@@ -61,18 +47,7 @@ ament_target_dependencies(RecognitionNode
   ament_index_cpp 
 )
 target_link_libraries(RecognitionNode ${OpenCV_LIBS})
-
-if(TORCH_FOUND)
-    target_link_libraries(RecognitionNode ${TORCH_LIBRARIES})
-    # 设置运行时库路径
-    set_target_properties(RecognitionNode PROPERTIES
-        INSTALL_RPATH "${LIBTORCH_PATH}/lib"
-        BUILD_WITH_INSTALL_RPATH TRUE
-    )
-    message(STATUS "已链接LibTorch库")
-else()
-    message(WARNING "未找到LibTorch，跳过链接")
-endif()
+target_link_libraries(RecognitionNode ${TORCH_LIBRARIES})
 
 install(TARGETS RecognitionNode
   DESTINATION lib/${PROJECT_NAME}
