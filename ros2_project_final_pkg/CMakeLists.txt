@@ -27,7 +27,6 @@ find_package(gazebo_msgs REQUIRED)
 find_package(OpenCV REQUIRED)
 find_package(cv_bridge REQUIRED)
 find_package(referee_pkg REQUIRED)
-find_package(pose_msg REQUIRED)
 find_package(message_filters REQUIRED)
 
 #视觉识别节点
@@ -40,7 +39,6 @@ ament_target_dependencies(RecognitionNode
   OpenCV 
   geometry_msgs
   cv_bridge
-  pose_msg
   referee_pkg
   sensor_msgs
   gazebo_msgs
@@ -71,7 +69,6 @@ ament_target_dependencies(ShooterNode
   OpenCV
   cv_bridge
   referee_pkg
-  pose_msg
   message_filters
   ament_index_cpp
 )
