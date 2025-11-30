@@ -21,7 +21,6 @@
   <depend>openCV</depend>
   <depend>cv_bridge</depend>
   <depend>referee_pkg</depend>
-  <depend>pose_msg</depend>
   <depend>message_filters</depend>
   <depend>ament_index_cpp</depend>
 
