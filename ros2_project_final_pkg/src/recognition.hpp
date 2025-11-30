@@ -16,6 +16,7 @@
 
 using namespace std;
 using namespace cv;
+//using namespace torch;   这里不能这么用，会和opencv冲突啊，真是遗憾
 
 class Recognition{
 public:
@@ -34,25 +35,16 @@ public:
     void locate_Armour(Mat warp_img,Rect boundRect);
     void transformLocation(vector<Point2f> Points,Rect boundRect,string &color,int number);
     int number_recognition(Mat &afterWarp);
-
-    // 追踪相关函数
-    void initTracker(Mat &frame, Rect2d bbox);
-    bool updateTracker(Mat &frame);
-    void TrackVisualization(Mat &frame);
-
-    void Visualization(Mat &processed_img);
-    void ShowAllObjects();
-    
+ 
     Recognition() 
         : red_upper1(10, 255, 255), red_lower1(0, 120, 70),
           red_upper2(180, 255, 255), red_lower2(170, 120, 70),
           green_upper(80, 255, 255), green_lower(40, 40, 40),
           blue_upper(145, 255, 255), blue_lower(75, 40, 40),
-          black_upper1(180,255,50), black_upper2(180,50,80), black_lower(0,0,0),
-          is_tracking(false)  // 初始化追踪状态为false
+          black_upper1(180,255,50), black_upper2(180,50,80), black_lower(0,0,0)
     {};
     
-    void paixu();
+    void sorting();
     
     struct ObjectInfo {
         string shape;
@@ -64,7 +56,6 @@ public:
 
 private: 
 
-    
     string ColorType[4]={"red","green","blue","black"};
     Scalar red_upper1,red_lower1,red_upper2,red_lower2;
     Scalar green_upper,green_lower;
@@ -76,18 +67,12 @@ private:
 
     const int Min_area=1500;
     const int Min_area_armour=1500;
-    const int Min_area_light=50;
-    const int Max_area_light=8000;
+    const int Min_area_light=100;
+    const int Max_area_light=2000;
 
     const float Min_ratio=0.8;
     const float Max_ratio=1.1;
 
-    // 新增追踪相关成员变量
-    bool is_tracking;
-    Rect2d tracking_bbox;
-    Mat tracking_template;
-    int tracking_fail_count;
-    const int max_track_fail=5;  // 最大连续追踪失败次数
 };
 
 
@@ -110,19 +95,13 @@ public:
     
     std::pair<int, float> predict(const cv::Mat& image) {
         try {
-            // 预处理图像
             torch::Tensor tensor = preprocess_image(image);
             
-            // 推理
             auto output = model.forward({tensor}).toTensor();
-            
-            // 后处理
             auto probs = torch::softmax(output, 1);
             auto predicted = torch::argmax(output, 1);
-            
             float confidence = probs[0][predicted[0]].item<float>();
             int digit = predicted[0].item<int>() + 1;
-            
             return {digit, confidence};
             
         } catch (const c10::Error& e) {
@@ -134,17 +113,9 @@ public:
 private:
     torch::Tensor preprocess_image(const cv::Mat& image) {
         cv::Mat processed =image.clone();
-
-        // 调整大小
         cv::resize(processed, processed, cv::Size(64, 64));
-        
-        // 转换为float并归一化
         processed.convertTo(processed, CV_32F, 1.0 / 255.0);
-        
-        // 标准化 (mean=0.5, std=0.5)
         processed = (processed - 0.5) / 0.5;
-        
-        // 转换为tensor [1, 1, 64, 64]
         torch::Tensor tensor = torch::from_blob(
             processed.data, 
             {1, 1, 64, 64}, 

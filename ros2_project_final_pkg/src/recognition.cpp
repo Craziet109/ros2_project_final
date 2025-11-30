@@ -25,139 +25,27 @@ void Recognition::Integration(Mat &original_img){
 
 
 
-
-
-
-
-
 void Recognition::findArmourIntegration(Mat &original_img){
     allObjects.clear();
-
-    //正在追踪的画先更新
-    if (is_tracking and false) {
-        bool tracking_success = updateTracker(original_img);
-        if (tracking_success) {
-            // 追踪成功，绘制追踪结果
-            TrackVisualization(original_img);
-            Visualization(original_img);
-            //return;  
-            } 
-            else {
-            // 追踪失败
-            is_tracking = false;
-            tracking_fail_count++;
-            cout << "Tracking failed, count:" << tracking_fail_count << endl;
-            if (tracking_fail_count>=max_track_fail) {
-                cout << "Too many tracking failures" << endl;
-                tracking_fail_count = 0;
-                is_tracking=false;}
-        }
-    }
-    
     Mat processed_img, hsv_img;
     cvtColor(original_img, hsv_img, cv::COLOR_BGR2HSV);
     ColorFiltering(hsv_img, processed_img, "black");
     JudgeArmour(original_img, processed_img);
-    
-    // 如果检测到装甲板且不在追踪状态，初始化追踪器
-    if (!allObjects.empty() && !is_tracking) {
-        // 选择第一个检测到的装甲板进行追踪
-        const ObjectInfo& obj = allObjects[0];
-        if (obj.points.size() == 4) {
-            Rect2d bbox=obj.AmourRect;
-            // 确保bbox在图像范围内
-            bbox.x = max(0.0,bbox.x);
-            bbox.y = max(0.0,bbox.y);
-            bbox.width = min(bbox.width, original_img.cols - bbox.x);
-            bbox.height = min(bbox.height, original_img.rows - bbox.y);
-            
-            //大小要合理
-            if (bbox.width > 20 && bbox.height > 20) {
-                initTracker(original_img,bbox);
-                tracking_fail_count = 0;
-                cout << "New tracker initialized with expanded bbox: "<<bbox<<endl;
-            }
-        }
-    }
     ShowAllObjects();
-    paixu();
+    if(allObjects.size()>0){
+    sorting();}
     Visualization(original_img);
 }
 
-void Recognition::paixu(){
-    for (size_t i;i<allObjects.size()-1;i++){
-        for (size_t j=i;j<allObjects.size()-1;j++){
-            if (allObjects[j].shape[9]>allObjects[j+1].shape[9]){
+void Recognition::sorting(){
+    if (allObjects.size()<=1) {return;}
+    for (size_t i=0;i<allObjects.size()-1;i++){
+        for (size_t j=0;j<allObjects.size()-i-1;j++){
+            if (allObjects[j].shape[10]>allObjects[j+1].shape[10]){
                 swap(allObjects[j],allObjects[j+1]);
             }  }  }}
 
 
-
-
-
-
-
-//初始化追踪器
-void Recognition::initTracker(Mat &frame, Rect2d bbox) {
-    // 确保bbox在图像范围内
-    bbox.x = max(0.0, bbox.x);
-    bbox.y = max(0.0, bbox.y);
-    bbox.width = min(bbox.width, frame.cols - bbox.x);
-    bbox.height = min(bbox.height, frame.rows - bbox.y);
-    
-    if (bbox.width > 20 && bbox.height > 20) { 
-        tracking_bbox = bbox;
-        tracking_template = frame(bbox).clone();
-        is_tracking = true;
-        cout << "Tracker initialized"<<endl;}
-}
-
-bool Recognition::updateTracker(Mat &frame) {
-    if (tracking_template.empty() || !is_tracking) {
-        return false;}
-
-    // 扩大搜索区域,同时防止越界
-    int search=300;
-    Rect search_roi;
-    search_roi.x = max(0, static_cast<int>(tracking_bbox.x)-search);
-    search_roi.y = max(0, static_cast<int>(tracking_bbox.y)-search);
-    search_roi.width = min(frame.cols-search_roi.x, static_cast<int>(tracking_bbox.width)+2*search);
-    search_roi.height = min(frame.rows-search_roi.y, static_cast<int>(tracking_bbox.height)+2*search);
-    
-    Mat search_area=frame(search_roi);
-    // 模板匹配
-    Mat result;
-    matchTemplate(search_area, tracking_template, result, TM_CCOEFF_NORMED);
-    double min_val, max_val;
-    Point min_loc, max_loc;
-    minMaxLoc(result, &min_val, &max_val, &min_loc, &max_loc);
-    
-    cout << "Template matching max value: " << max_val << endl;
-    
-    // 降低匹配阈值以提高追踪稳定性
-    double threshold = 0.25;
-    if (max_val > threshold) {
-        // 更新追踪框位置
-        tracking_bbox.x = search_roi.x + max_loc.x;
-        tracking_bbox.y = search_roi.y + max_loc.y;
-        return true;}
-    cout << "Template matching failed, value below threshold: " << max_val << endl;
-    return false;
-}
-
-void Recognition::TrackVisualization(Mat &frame) {
-    rectangle(frame, tracking_bbox, Scalar(0, 255, 0), 3);
-    Point center(static_cast<int>(tracking_bbox.x + tracking_bbox.width/2),
-                static_cast<int>(tracking_bbox.y + tracking_bbox.height/2));
-    circle(frame, center, 5, Scalar(0, 255, 255), -1);
-    // 绘制坐标信息
-    string coord_text = "X: " + to_string(static_cast<int>(tracking_bbox.x)) + 
-                       " Y: " + to_string(static_cast<int>(tracking_bbox.y));
-    putText(frame, coord_text, Point(10, 60), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(0, 255, 0), 2);
-    string size_text = "W: " + to_string(static_cast<int>(tracking_bbox.width)) + 
-                      " H: " + to_string(static_cast<int>(tracking_bbox.height));
-    putText(frame, size_text, Point(10, 90), FONT_HERSHEY_SIMPLEX, 0.6, Scalar(0, 255, 0), 2);
-}
 
 
 void Recognition::ColorFiltering(Mat &hsv_img,Mat &processed_img,string colortype){
@@ -182,8 +70,6 @@ void Recognition::ColorFiltering(Mat &hsv_img,Mat &processed_img,string colortyp
     }
     else {cout<<"error in input color"<<endl;return;}
     //进行基本的图像转换
-    //imshow("mask",mask);waitKey(0);
-    //改了一下形态学操作
     morphologyEx(mask,processed_img,MORPH_OPEN,kernel_open);
     morphologyEx(processed_img,processed_img,MORPH_CLOSE,kernel__close);
     //imshow("after ColorFilter",processed_img);waitKey(0);
@@ -367,7 +253,7 @@ void Recognition::transformLocation(vector<Point2f> Points,Rect boundRect,string
         //转换后将所有的信息进行存储
             ObjectInfo obj;
             //注意此处字符串的拼接
-            obj.shape = string("Armor")+"_"+"red"+"_"+to_string(number);    
+            obj.shape = string("armor")+"_"+"red"+"_"+to_string(number);    
             obj.color = color;    
             obj.points = transformPoints;  
             obj.AmourRect=boundRect;     
@@ -434,7 +320,6 @@ void Recognition::Visualization(Mat &processed_img){
     }
 }
     imshow("Visualization",processed_img);
-    //waitKey(0);
 }
 
 
@@ -453,7 +338,7 @@ void Recognition::ShowAllObjects(){
 int Recognition::number_recognition(Mat &afterWarp){
     try{
     string package_share_dir = ament_index_cpp::get_package_share_directory("project");
-    string model_path = package_share_dir + "/models/digit_model_improved.pth";
+    string model_path = package_share_dir + "/models/digit_model_optimized.pth";
     numberRecognition classifier(model_path);
         // 预测
         auto result = classifier.predict(afterWarp);
@@ -463,5 +348,5 @@ int Recognition::number_recognition(Mat &afterWarp){
     } catch (const std::exception& e) {
         cerr << "程序错误: " << e.what() << std::endl;
         return -1;
-    }
+    } 
 }
