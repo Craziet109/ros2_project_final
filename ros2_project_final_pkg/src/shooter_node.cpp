@@ -19,7 +19,7 @@
 #include <memory>
 
 
-class ShooterNode : public relcpp::Node
+class ShooterNode : public rclcpp::Node
 {
     private:
 
@@ -261,7 +261,7 @@ class ShooterNode : public relcpp::Node
             }
 
             // 计算欧拉角
-            geometry_msgs::msg::Vector3 euler = calculate_euler_angle(spatial_point_world, g, speed)
+            geometry_msgs::msg::Vector3 euler = calculate_euler_angle(closest_data.world_point, g, speed)
 
             // 返回响应
             response->yaw = euler.z;
